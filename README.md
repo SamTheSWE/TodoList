@@ -1,7 +1,5 @@
 # TodoList
 
-# TodoList
-
 A simple command-line To-Do List application written in C++. This program allows users to manage their tasks by adding, viewing, and deleting them. 
 
 ## Features
